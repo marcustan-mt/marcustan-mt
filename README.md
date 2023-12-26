@@ -6,7 +6,7 @@ I enjoy orchestrating the entire data journey, from crafting and implementing ro
 
 🪩 In 2024, I'm learning: machine learning and ML deployments.
 
-Step into my Digital Garden: GitHub and my website (marcustan.super.site) 🌱
+Step into my Digital Garden: GitHub and Website ([marcustan.super.site](https://marcustan.super.site/)) 🌱
 ---
 - 📝 Document my learnings so that people can join me on this learning journey
 - 📌 Curate papers and videos that I have read which will be helpful for people who are new to machine learning.
