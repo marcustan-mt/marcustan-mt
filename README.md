@@ -10,4 +10,4 @@ Step into my Digital Garden: GitHub and my website (marcustan.super.site) 🌱
 ---
 - 📝 Document my learnings so that people can join me on this learning journey
 - 📌 Curate papers and videos that I have read which will be helpful for people who are new to machine learning.
-- :pencil2: Share my code that you might find helpful in your projects
+- ✏️  Share my code that you might find helpful in your projects
