@@ -1,4 +1,4 @@
-![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/marcustan-mt/marcustan-mt/assets/153584786/4411bac1-4745-4c16-bfa2-d689b52235c7)
+![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521](https://github.com/marcustan-mt/marcustan-mt/assets/153584786/8d80bf94-c9b9-4264-bd81-7f474bd40a2e)
 
 👋 Hi, I'm Marcus Tan!
 ---
