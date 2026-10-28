@@ -16,4 +16,4 @@ This page is deliberately created to share a blend of the engineering usage prob
 * ** Curate papers and videos** that I have read which will be helpful for people who are new to this field.
 * ** Share my code** that you might find helpful in your own projects.
 
-Step into my **[GitHub Repos]([https://github.com](https://github.com/marcustan-mt?tab=repositories))** and explore my **[Website](https://marcus-tan.com)** 
+Step into my **[GitHub Repos](https://github.com/marcustan-mt?tab=repositories)** and explore my **[Website](https://marcus-tan.com)** 
